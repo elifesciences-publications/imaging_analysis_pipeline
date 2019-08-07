@@ -33,3 +33,4 @@ Raw movie files must be 512x512 pixel tiff stacks. These must be saved in direct
  - permTestResults: permutation test derived p-values for each ROI comparing whisker evoked dF/F to blank trial dF/F.
  
  'settings_date.mat': contains variables set in 'analysisTemplate.m'
+### This code is associated with the paper from LeMessurier et al., "Enrichment drives emergence of functional columns and improves sensory coding in the whisker map in L2/3 of mouse S1". eLife, 2019. http://dx.doi.org/10.7554/eLife.46321
